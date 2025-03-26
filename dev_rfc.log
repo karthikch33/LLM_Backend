@@ -1,0 +1,1813 @@
+
+**** Log file opened at 2025-01-29 16:35:28.208793 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-29 16:35:28.210506 [01828] >> Info entry
+	Did not find config file C:\Users\gajananda.mallidi\sapToSQL\backend\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-29 17:23:06.509696 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-29 17:23:06.511108 [15000] >> Error entry
+	[Handle: 1844592261520	ConvID: 78944713	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-01-29 18:54:40.804892 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-29 18:54:40.805489 [10180] >> Error entry
+	[Handle: 2557679197648	ConvID: 83990280	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-01-30 12:47:26.794440 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-30 12:47:26.795460 [11240] >> Error entry
+	[Handle: 2266279881776	ConvID: 48500806	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-01-31 16:03:19.054972 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-31 16:03:19.055150 [02724] >> Error entry
+	[Handle: 2135608805952	ConvID: 48654868	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-01-31 18:26:23.656808 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-31 18:26:23.657689 [01832] >> Error entry
+	[Handle: 2560089268848	ConvID: 57194127	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 18:30:23.474868 [16552] >> Error entry
+	[Handle: 2560128799152	ConvID: 57515056	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 18:31:03.205322 [16552] >> Error entry
+	[Handle: 2560128934768	ConvID: 57583702	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 18:31:32.901328 [16552] >> Error entry
+	[Handle: 2560127417072	ConvID: 57622381	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 18:32:19.703902 [16552] >> Error entry
+	[Handle: 2560129116640	ConvID: 57692202	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 18:33:31.325551 [05936] >> Error entry
+	[Handle: 2560129124064	ConvID: 57789970	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-01-31 18:47:44.163131 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-31 18:47:44.164118 [14716] >> Error entry
+	[Handle: 2193564381808	ConvID: 57874991	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-01-31 18:56:37.712115 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 10.6.107.164, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-01-31 18:56:37.712991 [12584] >> Error entry
+	[Handle: 2736581798288	ConvID: 58537505	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 20:05:40.902221 [19040] >> Error entry
+	[Handle: 2736579636752	ConvID: 62643709	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-01-31 20:33:44.554392 [19316] >> Error entry
+	[Handle: 2736581814688	ConvID: 64765068	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 14:41:55.903661 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 14:41:55.905249 [10940] >> Error entry
+	[Handle: 1551027446240	ConvID: 30447014	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 15:13:36.528370 [09720] >> Error entry
+	[Handle: 1551067464064	ConvID: 31698604	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 15:44:27.970193 [16168] >> Error entry
+	[Handle: 1551027721728	ConvID: 33882194	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 15:46:27.151000 [18576] >> Error entry
+	[Handle: 1551027721728	ConvID: 34018369	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 15:49:29.688771 [12776] >> Error entry
+	[Handle: 1551064894144	ConvID: 34233860	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 15:50:31.818969 [22404] >> Error entry
+	[Handle: 1551068254224	ConvID: 34307035	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:03:15.199777 [06532] >> Error entry
+	[Handle: 1551027657072	ConvID: 35232413	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:22:38.993072 [23468] >> Error entry
+	[Handle: 1551027657072	ConvID: 35579263	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:25:57.242640 [14456] >> Error entry
+	[Handle: 1551067420608	ConvID: 35837514	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:27:49.035491 [16924] >> Error entry
+	[Handle: 1551064894144	ConvID: 35971324	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:28:03.818022 [14872] >> Error entry
+	[Handle: 1551067901104	ConvID: 35989091	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:28:22.712489 [14872] >> Error entry
+	[Handle: 1551067908528	ConvID: 36012003	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:40:23.976487 [02800] >> Error entry
+	[Handle: 1551027640672	ConvID: 36859185	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:41:21.135820 [17964] >> Error entry
+	[Handle: 1551067878176	ConvID: 36927311	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:41:54.895544 [19024] >> Error entry
+	[Handle: 1551068818144	ConvID: 36966190	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:42:09.363577 [09172] >> Error entry
+	[Handle: 1551067971520	ConvID: 36984638	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:42:55.063817 [07180] >> Error entry
+	[Handle: 1551067971520	ConvID: 37064306	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:43:10.720725 [07180] >> Error entry
+	[Handle: 1551067956640	ConvID: 37083965	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:43:24.301131 [07180] >> Error entry
+	[Handle: 1551120306720	ConvID: 37100510	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:57:50.625286 [20544] >> Error entry
+	[Handle: 1551120284400	ConvID: 38137013	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 16:58:57.328615 [20876] >> Error entry
+	[Handle: 1551120284400	ConvID: 38214699	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 17:00:25.479955 [22676] >> Error entry
+	[Handle: 1551120291840	ConvID: 38315570	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:15:32.794723 [11184] >> Error entry
+	[Handle: 1551120314160	ConvID: 39431850	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:26:17.984144 [05572] >> Error entry
+	[Handle: 1551120321600	ConvID: 40212208	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:28:33.309374 [17652] >> Error entry
+	[Handle: 1551120321600	ConvID: 40372330	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:29:02.547157 [19396] >> Error entry
+	[Handle: 1551120269520	ConvID: 40406627	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:31:32.508241 [23204] >> Error entry
+	[Handle: 1551120351360	ConvID: 40576433	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:31:47.909968 [12032] >> Error entry
+	[Handle: 1551120358800	ConvID: 40596133	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:32:00.323983 [19176] >> Error entry
+	[Handle: 1551120343920	ConvID: 40612418	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 17:38:02.871890 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 17:38:02.872833 [13468] >> Error entry
+	[Handle: 1466179014752	ConvID: 40074993	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 17:38:40.389695 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 17:38:40.390054 [18108] >> Error entry
+	[Handle: 2361424048000	ConvID: 40119567	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 17:40:06.980341 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 17:40:06.982373 [13824] >> Error entry
+	[Handle: 2175186378960	ConvID: 40218039	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 17:40:18.864458 [01416] >> Error entry
+	[Handle: 2175187923600	ConvID: 40232992	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 18:22:39.721829 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 18:22:39.722884 [21796] >> Error entry
+	[Handle: 2670915925280	ConvID: 43286783	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+
+**** Log file opened at 2025-02-01 19:12:01.430336 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 19:12:01.431468 [19840] >> Error entry
+	[Handle: 1783382656912	ConvID: 45747650	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 19:18:35.205864 [07428] >> Error entry
+	[Handle: 1783381175280	ConvID: 46220734	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 19:26:44.256212 [19012] >> Error entry
+	[Handle: 1783342621536	ConvID: 46796298	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 19:40:20.508017 [21692] >> Error entry
+	[Handle: 1783382898736	ConvID: 47744548	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 20:06:01.957381 [18332] >> Error entry
+	[Handle: 1783342615680	ConvID: 49554502	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:10:53.003767 [09812] >> Error entry
+	[Handle: 1783384565056	ConvID: 49887356	Target: YAWSS4HSBX.sapyash.com	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: E	Codepage: 4103]
+	RfcABAPException: Key: FU_NOT_FOUND, Code: RFC_ABAP_EXCEPTION, Message: ID:FL Type:E Number:046 ZDD02L_ACCESS
+2025-02-01 20:11:13.278141 [09812] >> Error entry
+	[Handle: 1783383525568	ConvID: 49910809	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:12:19.881226 [03036] >> Error entry
+	[Handle: 1783383525568	ConvID: 49984415	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:17:39.305845 [09168] >> Error entry
+	[Handle: 1783342816640	ConvID: 50366811	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:17:59.366155 [09168] >> Error entry
+	[Handle: 1783342816640	ConvID: 50397913	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:18:17.211025 [22564] >> Error entry
+	[Handle: 1783435067840	ConvID: 50418704	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:20:50.890713 [17660] >> Error entry
+	[Handle: 1783435067840	ConvID: 50593470	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:21:35.599530 [17660] >> Error entry
+	[Handle: 1783435067840	ConvID: 50644066	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:21:48.009937 [17660] >> Error entry
+	[Handle: 1783435067840	ConvID: 50658571	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:21:59.085161 [17660] >> Error entry
+	[Handle: 1783435067840	ConvID: 50671560	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:22:43.125790 [17660] >> Error entry
+	[Handle: 1783435067840	ConvID: 50736438	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:23:45.772135 [06820] >> Error entry
+	[Handle: 1783435067840	ConvID: 50819277	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:24:18.539482 [06820] >> Error entry
+	[Handle: 1783435067840	ConvID: 50856071	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:24:49.777368 [06820] >> Error entry
+	[Handle: 1783435067840	ConvID: 50891320	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:25:26.082206 [13080] >> Error entry
+	[Handle: 1783435067840	ConvID: 50932584	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:28:17.253628 [23420] >> Error entry
+	[Handle: 1783434917456	ConvID: 51129701	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:29:06.949470 [10724] >> Error entry
+	[Handle: 1783435067840	ConvID: 51185459	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:30:04.637878 [16168] >> Error entry
+	[Handle: 1783383517360	ConvID: 51250166	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:35:54.675625 [16220] >> Error entry
+	[Handle: 1783434919968	ConvID: 51666225	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 20:35:56.006937 [16220] >> Error entry
+	[Handle: 1783434919968	ConvID: 51668502	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 21:09:09.029136 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 21:09:09.031049 [02060] >> Error entry
+	[Handle: 2725918976752	ConvID: 52982538	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:09:10.352732 [02060] >> Error entry
+	[Handle: 2725957755520	ConvID: 52984867	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 21:35:39.036530 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 21:35:39.038842 [22948] >> Error entry
+	[Handle: 2108392882304	ConvID: 54843454	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:35:40.427295 [22948] >> Error entry
+	[Handle: 2108392882304	ConvID: 54845955	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:36:17.644686 [09044] >> Error entry
+	[Handle: 2108392882304	ConvID: 54888197	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:36:18.988694 [09044] >> Error entry
+	[Handle: 2108392882304	ConvID: 54890475	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:39:38.748806 [18472] >> Error entry
+	[Handle: 2108395398784	ConvID: 55119208	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 21:41:24.525228 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 21:41:24.526311 [18524] >> Error entry
+	[Handle: 2240993310016	ConvID: 55235991	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 21:43:00.091829 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 21:43:00.092184 [20516] >> Error entry
+	[Handle: 2847621194800	ConvID: 55371398	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:45:23.049228 [20064] >> Error entry
+	[Handle: 2847623468208	ConvID: 55530596	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:45:48.312398 [09632] >> Error entry
+	[Handle: 2847623474048	ConvID: 55559852	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 21:53:21.285438 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 21:53:21.286268 [21292] >> Error entry
+	[Handle: 2387257794064	ConvID: 56101757	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:55:11.693214 [22300] >> Error entry
+	[Handle: 2387253791408	ConvID: 56228276	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:56:07.628584 [20144] >> Error entry
+	[Handle: 2387253791408	ConvID: 56292200	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 21:57:19.761999 [18464] >> Error entry
+	[Handle: 2387257805600	ConvID: 56373309	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:01:25.386305 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:01:25.387086 [15736] >> Error entry
+	[Handle: 2143658574080	ConvID: 56655874	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:02:31.750317 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:02:31.750709 [21604] >> Error entry
+	[Handle: 2384709544032	ConvID: 56730113	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:09:16.752148 [05104] >> Error entry
+	[Handle: 2384709201392	ConvID: 57216358	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:12:22.665007 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:12:22.665615 [20484] >> Error entry
+	[Handle: 2927098970192	ConvID: 57425230	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:12:27.327078 [18708] >> Error entry
+	[Handle: 2927100765616	ConvID: 57430904	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:13:02.695722 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:13:02.695974 [20492] >> Error entry
+	[Handle: 2115430568144	ConvID: 57499183	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:14:07.379166 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:14:07.379479 [22932] >> Error entry
+	[Handle: 2506958855744	ConvID: 57570841	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:16:16.590572 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:16:16.590769 [20576] >> Error entry
+	[Handle: 1894624331744	ConvID: 56716484	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:24:24.471006 [08652] >> Error entry
+	[Handle: 1894624093984	ConvID: 57302937	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:25:09.173671 [00536] >> Error entry
+	[Handle: 1894624020208	ConvID: 57352702	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:26:36.924060 [09872] >> Error entry
+	[Handle: 1894624093984	ConvID: 57450482	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-01 22:50:45.677156 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-01 22:50:45.678132 [07920] >> Error entry
+	[Handle: 1892262387472	ConvID: 59151206	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:52:05.433989 [21984] >> Error entry
+	[Handle: 1892262449792	ConvID: 59241039	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 22:52:23.126790 [20508] >> Error entry
+	[Handle: 1892262449792	ConvID: 59260558	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:19:58.742819 [20756] >> Error entry
+	[Handle: 1892264521360	ConvID: 61253281	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:20:50.449990 [06796] >> Error entry
+	[Handle: 1892261907264	ConvID: 61311048	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:24:49.113029 [06796] >> Error entry
+	[Handle: 1892262284960	ConvID: 61609755	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:25:19.042850 [20756] >> Error entry
+	[Handle: 1892265054608	ConvID: 61646614	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:40:20.030247 [23016] >> Error entry
+	[Handle: 1892262284432	ConvID: 62737559	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:40:38.879138 [23016] >> Error entry
+	[Handle: 1892262284432	ConvID: 62759426	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:40:45.740059 [02984] >> Error entry
+	[Handle: 1892262284432	ConvID: 62768306	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-01 23:41:19.282669 [02984] >> Error entry
+	[Handle: 1892262449792	ConvID: 62805872	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 07:21:15.657750 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-02 07:21:15.659008 [11012] >> Error entry
+	[Handle: 2080785919488	ConvID: 90037203	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 08:19:32.073124 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-02 08:19:32.074422 [15328] >> Error entry
+	[Handle: 1929598409936	ConvID: 93111680	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 08:33:27.181035 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-02 08:33:27.182015 [23372] >> Error entry
+	[Handle: 1664476285952	ConvID: 94082826	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:34:56.013448 [03876] >> Error entry
+	[Handle: 1664476253168	ConvID: 94182717	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:35:13.639328 [23372] >> Error entry
+	[Handle: 1664476703008	ConvID: 94203356	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:40:06.033929 [01696] >> Error entry
+	[Handle: 1664476345328	ConvID: 94560696	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:40:24.494859 [17536] >> Error entry
+	[Handle: 1664476285968	ConvID: 94582215	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:44:15.635516 [15156] >> Error entry
+	[Handle: 1664476285968	ConvID: 94849329	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 08:44:45.598284 [17536] >> Error entry
+	[Handle: 1664476285968	ConvID: 94884312	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 11:16:53.886361 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\gajananda.mallidi\sapToSQL\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101452LT, IP address: 192.168.1.51, IPv6 address: fe80::108d:d714:4bdc:3cfd
+
+2025-02-02 11:16:53.887040 [09164] >> Error entry
+	[Handle: 2034069252064	ConvID: 03634467	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:17:10.850278 [14396] >> Error entry
+	[Handle: 2034069252064	ConvID: 03654599	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:17:30.105006 [14396] >> Error entry
+	[Handle: 2034069214960	ConvID: 03677737	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:47:24.828007 [14472] >> Error entry
+	[Handle: 2034066382928	ConvID: 05777484	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:48:28.859939 [19288] >> Error entry
+	[Handle: 2034066382928	ConvID: 05856563	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:49:22.370137 [13504] >> Error entry
+	[Handle: 2034069370928	ConvID: 05920000	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:52:27.304361 [13504] >> Error entry
+	[Handle: 2034070003536	ConvID: 06129049	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:53:28.099067 [13516] >> Error entry
+	[Handle: 2034069903984	ConvID: 06206802	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 11:53:53.288328 [20772] >> Error entry
+	[Handle: 2034070003536	ConvID: 06235970	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 17:43:13.025507 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.47, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-02 17:43:13.025945 [08680] >> Error entry
+	[Handle: 2597040786048	ConvID: 26892318	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 17:56:46.913570 [16644] >> Error entry
+	[Handle: 2597001383776	ConvID: 27860262	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:01:10.261351 [02152] >> Error entry
+	[Handle: 2597041102864	ConvID: 28162607	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:02:03.325598 [12340] >> Error entry
+	[Handle: 2597001391200	ConvID: 28226660	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:02:28.743041 [11096] >> Error entry
+	[Handle: 2597039960560	ConvID: 28261991	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 18:12:51.240642 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.47, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-02 18:12:51.241339 [08088] >> Error entry
+	[Handle: 1506922789072	ConvID: 29006333	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:13:19.514358 [10416] >> Error entry
+	[Handle: 1506922348416	ConvID: 29039836	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:13:48.317556 [08508] >> Error entry
+	[Handle: 1506922348416	ConvID: 29081622	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:16:56.912405 [02436] >> Error entry
+	[Handle: 1506921589312	ConvID: 29315274	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:17:09.020630 [10072] >> Error entry
+	[Handle: 1506921589312	ConvID: 29329394	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: balajug	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:17:31.353124 [14424] >> Error entry
+	[Handle: 1506921589312	ConvID: 29356717	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: frewf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:17:48.158076 [12336] >> Error entry
+	[Handle: 1506921589312	ConvID: 29375278	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivasad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:27:58.996826 [16792] >> Error entry
+	[Handle: 1506921589312	ConvID: 30121118	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:29:32.325711 [14248] >> Error entry
+	[Handle: 1506921589312	ConvID: 30238639	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sadf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:29:50.430671 [14248] >> Error entry
+	[Handle: 1506921589312	ConvID: 30259789	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsafs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:31:04.569443 [00608] >> Error entry
+	[Handle: 1506921589312	ConvID: 30341871	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safddsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:31:05.346745 [16204] >> Error entry
+	[Handle: 1506922642032	ConvID: 30343633	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safddsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:33:29.975074 [10244] >> Error entry
+	[Handle: 1506922642032	ConvID: 30515269	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsafs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:33:41.704275 [17260] >> Error entry
+	[Handle: 1506922642032	ConvID: 30530801	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:33:56.615352 [17260] >> Error entry
+	[Handle: 1506923375312	ConvID: 30548925	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsafds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:34:22.984457 [16832] >> Error entry
+	[Handle: 1506922649456	ConvID: 30580231	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:36:04.099547 [16988] >> Error entry
+	[Handle: 1506922497856	ConvID: 30696369	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fsd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:37:53.592016 [16988] >> Error entry
+	[Handle: 1506922497856	ConvID: 30839465	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfadsafs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:38:05.385036 [08928] >> Error entry
+	[Handle: 1506922501968	ConvID: 30853649	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: saf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:48:09.596575 [17192] >> Error entry
+	[Handle: 1506922649456	ConvID: 31575972	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 18:56:49.965704 [14464] >> Error entry
+	[Handle: 1506922649456	ConvID: 31210341	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:03:41.140345 [15320] >> Error entry
+	[Handle: 1506922649456	ConvID: 31685411	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:04:02.953008 [16452] >> Error entry
+	[Handle: 1506922649456	ConvID: 31711285	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:04:22.346720 [16452] >> Error entry
+	[Handle: 1506922649456	ConvID: 31733721	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: add	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:04:35.392598 [12364] >> Error entry
+	[Handle: 1506922649456	ConvID: 31749738	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: htr	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:04:46.927950 [10352] >> Error entry
+	[Handle: 1506922649456	ConvID: 31763293	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: htr	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 19:13:25.299267 [04640] >> Error entry
+	[Handle: 1506922823152	ConvID: 32385665	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fewf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 20:25:19.555265 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.47, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-02 20:25:19.556342 [14364] >> Error entry
+	[Handle: 2778310074336	ConvID: 36431427	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:26:33.389916 [06448] >> Error entry
+	[Handle: 2778310074336	ConvID: 36532739	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:29:15.487835 [05036] >> Error entry
+	[Handle: 2778310074336	ConvID: 36723945	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: asdfg	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:29:27.570018 [14544] >> Error entry
+	[Handle: 2778310074336	ConvID: 36737921	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:40:32.363291 [11832] >> Error entry
+	[Handle: 2778310074336	ConvID: 37508591	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: gajanandam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 20:48:44.624716 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.47, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-02 20:48:44.625047 [10068] >> Error entry
+	[Handle: 2589811118128	ConvID: 38092798	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:49:27.664963 [04856] >> Error entry
+	[Handle: 2589811118128	ConvID: 38148041	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 20:50:32.370652 [16576] >> Error entry
+	[Handle: 2589811118128	ConvID: 38223749	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-02 22:14:13.984724 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 127.0.0.1, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-02 22:14:13.985053 [10192] >> Error entry
+	[Handle: 1692013199440	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host YH1101460LT with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:14:13 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:19:17.668483 [15288] >> Error entry
+	[Handle: 1692013263056	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:19:17 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:20:02.163267 [13048] >> Error entry
+	[Handle: 1692052159760	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:20:02 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:20:12.211314 [01712] >> Error entry
+	[Handle: 1692052163872	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:20:12 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:20:49.968352 [11844] >> Error entry
+	[Handle: 1692052163872	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:20:49 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:21:30.423190 [00032] >> Error entry
+	[Handle: 1692052163872	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:21:30 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:22:21.650662 [13436] >> Error entry
+	[Handle: 1692013263056	ConvID: 43696849	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: aditya	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:23:00.858190 [13436] >> Error entry
+	[Handle: 1692013263056	ConvID: 43740269	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sfda	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:23:27.599668 [13436] >> Error entry
+	[Handle: 1692013295888	ConvID: 43779944	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: karhtik	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:36:16.624012 [12436] >> Error entry
+	[Handle: 1692013232224	ConvID: 44683036	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:37:33.306686 [16404] >> Error entry
+	[Handle: 1692012969664	ConvID: 44795666	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJU	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:40:04.457339 [15828] >> Error entry
+	[Handle: 1692013279488	ConvID: 44981412	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:41:47.774672 [00320] >> Error entry
+	[Handle: 1692013263056	ConvID: 45097742	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: adityac	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-02 22:46:52.691339 [16896] >> Error entry
+	[Handle: 1692052614816	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:46:52 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:47:28.558077 [16772] >> Error entry
+	[Handle: 1692052546464	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:47:28 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:50:34.640882 [04856] >> Error entry
+	[Handle: 1692052546464	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:50:34 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:51:38.476323 [04856] >> Error entry
+	[Handle: 1692052546464	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:51:38 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     4
+
+2025-02-02 22:54:08.189175 [12272] >> Error entry
+	[Handle: 1692052439904	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:54:08 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 22:54:29.113524 [12336] >> Error entry
+	[Handle: 1692052439904	ConvID: 	Target: 	SysID: 	SysNr: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 20, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '34.194.191.113:3301' not reached
+TIME        Sun Feb  2 22:54:29 2025
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      D:/depot/bas/753_REL/src/base/ni/nixxi.cpp
+LINE        3449
+DETAIL      NiPConnect2: 34.194.191.113:3301
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     2
+
+2025-02-02 23:07:15.287580 [05196] >> Error entry
+	[Handle: 1692052942816	ConvID: 46906590	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 03:41:01.492009 [10752] >> Error entry
+	[Handle: 1692053106304	ConvID: 63182855	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 03:49:19.730324 [18784] >> Error entry
+	[Handle: 1692053115296	ConvID: 63768240	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: jhgh	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 03:49:33.738953 [09284] >> Error entry
+	[Handle: 1692053129648	ConvID: 63785167	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: jhgh123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 12:43:23.094605 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 12:43:23.095795 [14960] >> Error entry
+	[Handle: 1870760316096	ConvID: 95564976	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Sijidwoq	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 12:43:57.319563 [06888] >> Error entry
+	[Handle: 1870760316096	ConvID: 95625289	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 	Mandant: 100	Language: 	Codepage: 4103]
+	RfcSystemException: Key: CALL_FUNCTION_SIGNON_INCOMPL, Code: RFC_ABAP_RUNTIME_FAILURE, Message: Logon data incomplete.
+
+**** Log file opened at 2025-02-03 14:58:26.946337 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 14:58:26.947515 [04588] >> Error entry
+	[Handle: 1820500216736	ConvID: 03338924	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sadfd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 17:23:35.323454 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 17:23:35.324210 [08752] >> Error entry
+	[Handle: 2170735243888	ConvID: 11980482	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHRUAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 17:24:02.966639 [04568] >> Error entry
+	[Handle: 2170735260288	ConvID: 12026041	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 17:48:10.783068 [18260] >> Error entry
+	[Handle: 2170735635232	ConvID: 14157986	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ast	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 17:56:18.014725 [17724] >> Error entry
+	[Handle: 2170735641936	ConvID: 14866107	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:03:40.865693 [09348] >> Error entry
+	[Handle: 2170737225408	ConvID: 14501686	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:11:18.345830 [14496] >> Error entry
+	[Handle: 2170737298384	ConvID: 15180416	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: FDS	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:14:11.323513 [16748] >> Error entry
+	[Handle: 2170736165760	ConvID: 15418374	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:18:31.423048 [08928] >> Error entry
+	[Handle: 2170736439920	ConvID: 15786540	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:27:45.929696 [08248] >> Error entry
+	[Handle: 2170737313328	ConvID: 16547072	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:32:11.743559 [14736] >> Error entry
+	[Handle: 2170737350528	ConvID: 16912792	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:32:32.321782 [07004] >> Error entry
+	[Handle: 2170737357968	ConvID: 16941375	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:33:03.567544 [02320] >> Error entry
+	[Handle: 2170737335648	ConvID: 16987607	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:33:36.839144 [02320] >> Error entry
+	[Handle: 2170737328208	ConvID: 17050888	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fsads	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:34:35.201792 [11824] >> Error entry
+	[Handle: 2170737328208	ConvID: 17124259	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fsads	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:34:58.973047 [11824] >> Error entry
+	[Handle: 2170737343088	ConvID: 17153065	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:35:40.230554 [11824] >> Error entry
+	[Handle: 2170737343088	ConvID: 17207288	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:38:20.568764 [02192] >> Error entry
+	[Handle: 2170737313328	ConvID: 16416885	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:38:41.821005 [02192] >> Error entry
+	[Handle: 2170737305888	ConvID: 16468094	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdfa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:39:42.017334 [10072] >> Error entry
+	[Handle: 2170737357968	ConvID: 16548297	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:05.616840 [08368] >> Error entry
+	[Handle: 2170737320768	ConvID: 16659880	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:21.402647 [08368] >> Error entry
+	[Handle: 2170737313328	ConvID: 16679702	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:25.651204 [08368] >> Error entry
+	[Handle: 2170737328208	ConvID: 16685907	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:26.133754 [15788] >> Error entry
+	[Handle: 2170737357968	ConvID: 16687428	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:26.341395 [08692] >> Error entry
+	[Handle: 2170737320768	ConvID: 16688636	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:26.460751 [07808] >> Error entry
+	[Handle: 2170737313328	ConvID: 16689713	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:26.658519 [17968] >> Error entry
+	[Handle: 2170737335648	ConvID: 16690962	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:28.882479 [17968] >> Error entry
+	[Handle: 2170737320768	ConvID: 16694157	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:29.136420 [07808] >> Error entry
+	[Handle: 2170737357968	ConvID: 16695402	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:29.284612 [08692] >> Error entry
+	[Handle: 2170737305888	ConvID: 16696543	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:29.609543 [15788] >> Error entry
+	[Handle: 2170737335648	ConvID: 16697900	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:29.827762 [08368] >> Error entry
+	[Handle: 2170737313328	ConvID: 16699115	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:30.072672 [01748] >> Error entry
+	[Handle: 2170737328208	ConvID: 16700346	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:51.286708 [15572] >> Error entry
+	[Handle: 2170737350528	ConvID: 16726585	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:54.060453 [13928] >> Error entry
+	[Handle: 2170737320768	ConvID: 16730363	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:54.544903 [15952] >> Error entry
+	[Handle: 2170737328208	ConvID: 16731840	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:54.686575 [17144] >> Error entry
+	[Handle: 2170737343088	ConvID: 16732979	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:41:54.952874 [13684] >> Error entry
+	[Handle: 2170737305888	ConvID: 16735250	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:42:08.210145 [09992] >> Error entry
+	[Handle: 2170737305888	ConvID: 16750506	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:42:10.052765 [09992] >> Error entry
+	[Handle: 2170737320768	ConvID: 16753352	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:42:42.673092 [04048] >> Error entry
+	[Handle: 2170737328208	ConvID: 16797979	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:43:05.005051 [19428] >> Error entry
+	[Handle: 2170737313328	ConvID: 16826309	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:43:15.235900 [17572] >> Error entry
+	[Handle: 2170737305888	ConvID: 16841535	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:43:33.030504 [06008] >> Error entry
+	[Handle: 2170737320768	ConvID: 16870327	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 18:50:49.606675 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 18:50:49.606864 [01560] >> Error entry
+	[Handle: 1891855921280	ConvID: 17442811	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: asdfg	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 18:52:51.297995 [13868] >> Error entry
+	[Handle: 1891854605504	ConvID: 17601536	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJV	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 18:53:45.856807 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 18:53:45.887613 [16564] >> Error entry
+	[Handle: 2433065049136	ConvID: 17676040	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJV	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 18:59:44.017741 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 18:59:44.017966 [08756] >> Error entry
+	[Handle: 2018587111648	ConvID: 18183218	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:02:12.401155 [13028] >> Error entry
+	[Handle: 2018587941040	ConvID: 18373615	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:06:50.171127 [08440] >> Error entry
+	[Handle: 2018589972976	ConvID: 18756417	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:11:34.572773 [10044] >> Error entry
+	[Handle: 2018590336048	ConvID: 19138808	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:11:46.199166 [10044] >> Error entry
+	[Handle: 2018590336048	ConvID: 19154447	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsadsfa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:12:37.155229 [11644] >> Error entry
+	[Handle: 2018587371728	ConvID: 19212394	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsadsfaewr	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:12:54.755878 [18064] >> Error entry
+	[Handle: 2018587371728	ConvID: 19237011	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: wer	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:13:05.059718 [18064] >> Error entry
+	[Handle: 2018587371728	ConvID: 19249297	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: werdsfasd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:13:14.743731 [18064] >> Error entry
+	[Handle: 2018587371728	ConvID: 19261006	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: werdsfasd3r2	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:19:36.416758 [09624] >> Error entry
+	[Handle: 2018589297056	ConvID: 19804498	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsafs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:24:02.050418 [06304] >> Error entry
+	[Handle: 2018587371728	ConvID: 19155119	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:26:07.988083 [07480] >> Error entry
+	[Handle: 2018589799728	ConvID: 19338070	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:27:23.366505 [19452] >> Error entry
+	[Handle: 2018589799728	ConvID: 19437444	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:27:50.605684 [05196] >> Error entry
+	[Handle: 2018587371728	ConvID: 19475676	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:28:57.062687 [12272] >> Error entry
+	[Handle: 2018589799728	ConvID: 19585135	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:29:38.328980 [13968] >> Error entry
+	[Handle: 2018587371728	ConvID: 19637407	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: Free	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:37:33.882995 [19296] >> Error entry
+	[Handle: 2018587371728	ConvID: 20257953	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sfad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:38:10.739875 [00460] >> Error entry
+	[Handle: 2018587371728	ConvID: 20304858	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsda	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:41:04.565550 [05292] >> Error entry
+	[Handle: 2018587371728	ConvID: 20554693	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsafs	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:42:05.231899 [08484] >> Error entry
+	[Handle: 2018587371728	ConvID: 20627318	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:42:14.645727 [08484] >> Error entry
+	[Handle: 2018587371728	ConvID: 20638736	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:43:28.066894 [10652] >> Error entry
+	[Handle: 2018587371728	ConvID: 20734159	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 19:43:53.880110 [13868] >> Error entry
+	[Handle: 2018587371728	ConvID: 20764861	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 20:26:37.032466 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 20:26:37.033801 [13220] >> Error entry
+	[Handle: 1690654683984	ConvID: 23139059	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: GAJANANDAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-03 20:42:30.031672 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-03 20:42:30.032367 [09240] >> Error entry
+	[Handle: 1913342567088	ConvID: 24379099	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 20:42:56.554672 [09240] >> Error entry
+	[Handle: 1913343612512	ConvID: 24408720	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 20:43:17.816699 [09240] >> Error entry
+	[Handle: 1913343665040	ConvID: 24434922	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 20:43:45.962409 [09240] >> Error entry
+	[Handle: 1913342631360	ConvID: 24479078	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 20:44:19.193294 [14844] >> Error entry
+	[Handle: 1913342567088	ConvID: 24520360	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 20:50:29.979032 [08424] >> Error entry
+	[Handle: 1913341913392	ConvID: 24976160	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-03 21:01:16.562166 [11900] >> Error entry
+	[Handle: 1913342567088	ConvID: 25772854	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: muthurajam	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-04 00:34:30.970228 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\llmproject\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.63, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-04 00:34:30.970831 [15172] >> Error entry
+	[Handle: 1681854581744	ConvID: 38428565	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:37:26.507062 [02900] >> Error entry
+	[Handle: 1681855841472	ConvID: 38624318	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ewrqw	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:42:28.771649 [02448] >> Error entry
+	[Handle: 1681855841472	ConvID: 38984578	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:43:18.479210 [17704] >> Error entry
+	[Handle: 1681855841472	ConvID: 39041269	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:45:15.537746 [02900] >> Error entry
+	[Handle: 1681855841472	ConvID: 39179283	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:46:26.427465 [18000] >> Error entry
+	[Handle: 1681855841472	ConvID: 39258237	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:46:46.555374 [02900] >> Error entry
+	[Handle: 1681855841472	ConvID: 39281329	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:47:15.652432 [02900] >> Error entry
+	[Handle: 1681855841472	ConvID: 39314483	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:47:55.016302 [18000] >> Error entry
+	[Handle: 1681855841472	ConvID: 39358850	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:55:33.669196 [16504] >> Error entry
+	[Handle: 1681855841472	ConvID: 39899493	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:56:04.565109 [03244] >> Error entry
+	[Handle: 1681855841472	ConvID: 39934361	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:59:26.615379 [09848] >> Error entry
+	[Handle: 1681855841472	ConvID: 40184461	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsadf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 00:59:52.348891 [15304] >> Error entry
+	[Handle: 1681855841472	ConvID: 40214205	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 1234	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:03:27.467688 [17240] >> Error entry
+	[Handle: 1681857044800	ConvID: 40460296	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:03:46.152976 [17240] >> Error entry
+	[Handle: 1681857044800	ConvID: 40480992	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:03:52.090243 [17240] >> Error entry
+	[Handle: 1681857044800	ConvID: 40488957	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:03:55.601450 [17240] >> Error entry
+	[Handle: 1681857044800	ConvID: 40493428	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:05:09.408480 [15876] >> Error entry
+	[Handle: 1681857044800	ConvID: 40576237	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:36.338607 [00300] >> Error entry
+	[Handle: 1681857044800	ConvID: 40738180	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:50.774367 [00300] >> Error entry
+	[Handle: 1681857044800	ConvID: 40755646	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:54.234529 [00300] >> Error entry
+	[Handle: 1681857044800	ConvID: 40760110	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:55.467790 [02712] >> Error entry
+	[Handle: 1681856009376	ConvID: 40762329	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:55.646461 [00300] >> Error entry
+	[Handle: 1681857339408	ConvID: 40763509	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:55.806895 [09212] >> Error entry
+	[Handle: 1681857044800	ConvID: 40764667	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:55.972178 [00836] >> Error entry
+	[Handle: 1681816942272	ConvID: 40765825	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:56.099650 [14888] >> Error entry
+	[Handle: 1681816949696	ConvID: 40766971	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:07:56.571550 [13996] >> Error entry
+	[Handle: 1681856933680	ConvID: 40768350	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:08:01.900796 [13996] >> Error entry
+	[Handle: 1681856931920	ConvID: 39774748	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: safds	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:09:51.774581 [12520] >> Error entry
+	[Handle: 1681857044800	ConvID: 39923561	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:10:11.790200 [10788] >> Error entry
+	[Handle: 1681857044800	ConvID: 39946641	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:13:20.465989 [08244] >> Error entry
+	[Handle: 1681857044800	ConvID: 40157093	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:14:01.116281 [07668] >> Error entry
+	[Handle: 1681857044800	ConvID: 40211771	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:15:36.343678 [03596] >> Error entry
+	[Handle: 1681857044800	ConvID: 40321137	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:16:04.965759 [03596] >> Error entry
+	[Handle: 1681857044800	ConvID: 40353808	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:16:11.915742 [03596] >> Error entry
+	[Handle: 1681857044800	ConvID: 40362771	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fdsas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:20:48.325096 [10032] >> Error entry
+	[Handle: 1681857044800	ConvID: 40713074	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fddsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:21:30.399443 [18396] >> Error entry
+	[Handle: 1681857044800	ConvID: 40760146	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: fddsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:36:07.061022 [14040] >> Error entry
+	[Handle: 1681816896368	ConvID: 41777887	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJU	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:36:22.240640 [14040] >> Error entry
+	[Handle: 1681816896368	ConvID: 41798038	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJU	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:36:51.390490 [14960] >> Error entry
+	[Handle: 1681816896368	ConvID: 41831185	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUfsad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:38:17.865091 [10004] >> Error entry
+	[Handle: 1681816896368	ConvID: 41926700	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:38:21.608867 [10004] >> Error entry
+	[Handle: 1681816896368	ConvID: 41932429	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfdsa	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:40:50.414177 [15104] >> Error entry
+	[Handle: 1681855847712	ConvID: 42126263	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:40:55.753290 [15104] >> Error entry
+	[Handle: 1681856735952	ConvID: 42132539	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:41:45.430429 [12068] >> Error entry
+	[Handle: 1681857404960	ConvID: 42188286	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:41:51.147711 [12068] >> Error entry
+	[Handle: 1681857404960	ConvID: 42196005	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:41:56.204330 [12068] >> Error entry
+	[Handle: 1681857404960	ConvID: 42201986	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:45:27.480450 [17320] >> Error entry
+	[Handle: 1681817568560	ConvID: 42453335	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsfas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:50:42.000429 [09004] >> Error entry
+	[Handle: 1681857044800	ConvID: 42828686	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:50:47.384732 [09004] >> Error entry
+	[Handle: 1681857044800	ConvID: 42835261	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:50:59.844043 [09004] >> Error entry
+	[Handle: 1681857044800	ConvID: 42850696	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:51:51.331727 [05692] >> Error entry
+	[Handle: 1681857044800	ConvID: 42908200	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJI	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:52:45.035775 [16404] >> Error entry
+	[Handle: 1681855819664	ConvID: 42968898	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:52:49.088225 [16404] >> Error entry
+	[Handle: 1681855819664	ConvID: 42973849	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 01:52:55.838537 [16404] >> Error entry
+	[Handle: 1681855819664	ConvID: 42982716	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 12334	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:01:22.351852 [16168] >> Error entry
+	[Handle: 1681855827088	ConvID: 43578205	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG=	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:01:46.855737 [16632] >> Error entry
+	[Handle: 1681855827088	ConvID: 43605713	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJI	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:01:52.597353 [16632] >> Error entry
+	[Handle: 1681855827088	ConvID: 43613376	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJI	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:02:26.197745 [14140] >> Error entry
+	[Handle: 1681855827088	ConvID: 43655005	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: AQWE	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:02:32.004214 [14140] >> Error entry
+	[Handle: 1681855827088	ConvID: 43662872	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: AQWE	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:17:54.875775 [17916] >> Error entry
+	[Handle: 1681857052224	ConvID: 44726709	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: qwer	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:49:11.101050 [06360] >> Error entry
+	[Handle: 1681858766576	ConvID: 45930938	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivasad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:49:19.577537 [03400] >> Error entry
+	[Handle: 1681858766576	ConvID: 45941425	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivasad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:49:56.995649 [12540] >> Error entry
+	[Handle: 1681909285008	ConvID: 45983871	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivas	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:54:47.060771 [13204] >> Error entry
+	[Handle: 1681857052224	ConvID: 46313887	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 02:55:43.158568 [18424] >> Error entry
+	[Handle: 1681909449888	ConvID: 46377939	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJU	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 03:12:52.636927 [17860] >> Error entry
+	[Handle: 1681909435008	ConvID: 47578278	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: srinivasad	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 03:39:57.534033 [01516] >> Error entry
+	[Handle: 1681909435008	ConvID: 49485430	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 123	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-04 04:09:04.946589 [14632] >> Error entry
+	[Handle: 1681909412688	ConvID: 51516815	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJI	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-05 20:15:57.460714 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-05 20:15:57.461735 [19696] >> Error entry
+	[Handle: 2441853558336	ConvID: 95518660	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-05 20:17:37.751028 [12704] >> Error entry
+	[Handle: 2441814830736	ConvID: 95649036	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: LSADJF	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-06 14:57:35.210558 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-06 14:57:35.211535 [07708] >> Error entry
+	[Handle: 2723147426912	ConvID: 62575437	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-06 14:57:59.928797 [07708] >> Error entry
+	[Handle: 2723147426912	ConvID: 62613212	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-06 14:58:02.287498 [07708] >> Error entry
+	[Handle: 2723147426912	ConvID: 62621262	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-06 14:58:28.298284 [07708] >> Error entry
+	[Handle: 2723147426912	ConvID: 62664581	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-10 23:27:24.332768 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.68, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-10 23:27:24.333662 [14220] >> Error entry
+	[Handle: 2687783964608	ConvID: 38610341	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC13	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-10 23:27:50.740125 [14220] >> Error entry
+	[Handle: 2687783964608	ConvID: 38641109	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC13	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-11 18:35:42.203111 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-11 18:35:42.203640 [20004] >> Error entry
+	[Handle: 1636211743568	ConvID: 07804613	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYACq	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-11 18:35:46.584085 [20004] >> Error entry
+	[Handle: 1636211743568	ConvID: 07810026	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYACq	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-11 19:16:35.453822 [13252] >> Error entry
+	[Handle: 1636217823072	ConvID: 10199621	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-11 19:18:34.927712 [13252] >> Error entry
+	[Handle: 1636217823072	ConvID: 10347100	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJAM	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-11 19:24:38.347493 [13252] >> Error entry
+	[Handle: 1636219678016	ConvID: 10854532	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 345	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-12 15:17:56.053823 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-12 15:17:56.055481 [09492] >> Error entry
+	[Handle: 1985012170816	ConvID: 82504133	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 23	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-12 15:18:01.476164 [09492] >> Error entry
+	[Handle: 1985012170816	ConvID: 82511668	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: 23	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-12 16:59:46.101958 [02880] >> Error entry
+	[Handle: 1985015679152	ConvID: 88547312	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: KArthik	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-13 13:07:27.585489 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\React\Gen_Ai\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-13 13:07:27.587143 [03184] >> Error entry
+	[Handle: 2778763515728	ConvID: 61116693	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-20 21:00:22.620756 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-20 21:00:22.622201 [10956] >> Error entry
+	[Handle: 2739805682896	ConvID: 81583347	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: MUTHURAJA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-02-25 15:18:42.121193 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-02-25 15:18:42.122753 [10332] >> Error entry
+	[Handle: 2163839242736	ConvID: 09513194	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-02-25 15:18:53.282565 [10332] >> Error entry
+	[Handle: 2163839242736	ConvID: 09531360	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-11 18:36:24.039135 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-03-11 18:36:24.040247 [02424] >> Error entry
+	[Handle: 2679596375632	ConvID: 07867434	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dsaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-11 22:41:02.597168 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.34, IPv6 address: fe80::b029:3c7f:ca0d:3f19
+
+2025-03-11 22:41:02.598353 [21072] >> Error entry
+	[Handle: 2261061820128	ConvID: 22103333	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-17 17:52:07.663228 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-17 17:52:07.664212 [09928] >> Error entry
+	[Handle: 2069144192864	ConvID: 21971321	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-17 17:52:08.114068 [16228] >> Error entry
+	[Handle: 2069406160544	ConvID: 22030370	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sdaf	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-17 18:58:40.690510 [00764] >> Error entry
+	[Handle: 2069444632592	ConvID: 26429855	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-17 19:00:37.700226 [10704] >> Error entry
+	[Handle: 2069447733280	ConvID: 26619893	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SFEW	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-17 19:02:01.376286 [10704] >> Error entry
+	[Handle: 2069447733280	ConvID: 26720866	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SFEW	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-17 23:52:08.938558 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 192.168.1.38, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-17 23:52:08.940138 [02180] >> Error entry
+	[Handle: 1632951343136	ConvID: 43730140	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-17 23:52:55.019549 [09388] >> Error entry
+	[Handle: 1632951375936	ConvID: 43808212	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALAJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-19 19:05:38.202219 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-19 19:05:38.203271 [12504] >> Error entry
+	[Handle: 2044979799264	ConvID: 99593063	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-19 19:27:45.470440 [11332] >> Error entry
+	[Handle: 2044978708560	ConvID: 01222917	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: FA	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-19 19:58:08.272413 [09844] >> Error entry
+	[Handle: 2044979784864	ConvID: 02164499	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: BALJUG	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-19 19:59:24.317340 [09804] >> Error entry
+	[Handle: 2044975353536	ConvID: 02241914	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-20 15:54:54.112535 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-20 15:54:54.113730 [03720] >> Error entry
+	[Handle: 2419131011776	ConvID: 74171727	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: SRINIVASAD	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-21 11:21:59.769576 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-21 11:21:59.771179 [10260] >> Error entry
+	[Handle: 2411696577856	ConvID: 43943378	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-21 11:22:55.129017 [18004] >> Error entry
+	[Handle: 2411691736256	ConvID: 44038457	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-21 11:36:09.468968 [08536] >> Error entry
+	[Handle: 2411696577856	ConvID: 45019799	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADITYAC	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-21 11:50:29.252034 [11156] >> Error entry
+	[Handle: 2411699218960	ConvID: 46147342	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: dfassafsd	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-26 13:42:09.090437 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-26 13:42:09.091858 [19924] >> Error entry
+	[Handle: 2063182749552	ConvID: 77865162	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2025-03-26 15:08:58.268647 UTC+05:30 (India Standard Time), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 7, Compiled on Jan 20 2021 04:58:17
+ CPIC library: 753.2020.10.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 728
+ Current working directory: C:\Users\Aditya.chalavadi\Desktop\DMC-LLM\backend, Program: python
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: YH1101460LT, IP address: 10.6.103.41, IPv6 address: fe80::4877:4705:64f3:fe5c
+
+2025-03-26 15:08:58.269984 [09376] >> Error entry
+	[Handle: 2548180925632	ConvID: 84024788	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: sadfewqfw	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
+2025-03-26 16:39:55.375007 [19160] >> Error entry
+	[Handle: 2548180910752	ConvID: 88923541	Target: 34.194.191.113	SysID: S3X	SysNr: 01	User: ADIT	Mandant: 100	Language: 	Codepage: 4103]
+	RfcABAPMessageException: Key: , Code: RFC_ABAP_MESSAGE, Message: Name or password is incorrect (repeat logon)
